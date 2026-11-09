@@ -1,6 +1,6 @@
-# Northbridge Component Consolidation - NB-DA6913
+# Northbridge Component Consolidation - NB-D981C5
 
-This repository tracks component submissions for the NB-DA6913 cycle of the
+This repository tracks component submissions for the NB-D981C5 cycle of the
 Northbridge Component Consolidation programme.
 
 Submissions are recorded as issues. Stakeholders endorse a submission by
